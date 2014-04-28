@@ -42,7 +42,7 @@ links:
   - title: Theme Setup
     url: /theme-setup/
   - title: Github Page
-    url: http://shaoweiD.github.io/shaowei.github.io
+    url: http://shaoweiD.github.io
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

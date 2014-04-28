@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /Resume/
+permalink: /resume/
 title: Shaowei Ding's Resume
-tagline: Minimal Mistakes, a Jekyll Theme
+tagline: try
 tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+modified: 4-9-2014
 comments: true
 image:
   feature: texture-feature-02.jpg
@@ -12,3 +12,4 @@ image:
   creditlink: http://texturelovers.com
 ---
 
+## resume will be updated
