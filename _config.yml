@@ -39,10 +39,10 @@ links:
     url: /resume/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Github Page
-    url: https://github.com/shaoweiD/shaowei.github.io
+  - title: Courses 
+    url: /courses/
+  - title: Research and Teaching Experiences
+    url: /intro/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
