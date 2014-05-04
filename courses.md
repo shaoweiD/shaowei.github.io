@@ -41,12 +41,11 @@ Cr. 4. Introduction of Retinal diseases and prion diseases.<br/>
 (0-2) Cr. 1. F. Prereq: Enrollment in STAT 500<br/>
 An introduction to the logic of programming, numerical algorithms, and graphics. The R statistical programming environment will be used to demonstrate how data can be stored, manipulated, plotted, and analyzed using both built-in functions and user extensions. Concepts of modularization, looping, vectorization, conditional execution, and function construction will be emphasized.<br/>
 
-6. #### ABE 601<br/>
-(Cross-listed with TSM). (1-0) Cr. 1. F. <br/>
+6. #### ABE 601 (Cross-listed with TSM). (1-0) Cr. 1. F. <br/>
 Keys to writing a good MS thesis or PhD dissertation. How to begin formulating research problems. Discussion of research problems and broader impacts, review of literature, identifying knowledge gaps and needs, long-term goals, research hypotheses, objectives, rationale and significance, methods, procedures, data analysis, and reporting results. Presentation of research proposal in different formats. Using peer review and responding to feedback.<br/>
 
-### Spring 2014<br/>
-1.#### STAT 585X. Data Technologies for Statistical Analysis. (3-0) Cr. 3. Prereq: STAT 579.<br/>
+### Spring 2014 
+1.#### STAT 585X. Data Technologies for Statistical Analysis. (3-0) Cr. 3. Prereq: STAT 579. <br/>
  Introduction to computational methods for data analysis. Accessing and managing data formats: flat files, databases, web technologies based on mark-up languages (SML, KML, HTML), netCDF. Elements of text processing: regular expressions for cleaning data. Working with massive data, handling missing data, scaled computing. Efficient programming, reproducible code.
 
 
