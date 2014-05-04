@@ -11,4 +11,5 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
+![Alt text](/image/resume.pdf)
 
