@@ -12,4 +12,3 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-## resume will be updated
