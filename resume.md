@@ -11,5 +11,6 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
-![Alt text](/image/resume.pdf)
-
+<object data="/images/resume.pdf" type="application/pdf" width="300" height="500">
+  alt : <a href="/images/resume.pdf">resume.pdf</a>
+</object>
