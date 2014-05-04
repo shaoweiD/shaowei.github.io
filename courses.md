@@ -19,7 +19,8 @@ image:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
-## Here are couseworks I have taken in graduate school at Iowa State University:<br/>
+
+**Here are couseworks I have taken in graduate school at Iowa State University:<br/>**
 
 ### Fall 2013<br/>
 1. #### ABE 551. Food and Bioprocess Engineering.(TAed in 2014)<br/>
