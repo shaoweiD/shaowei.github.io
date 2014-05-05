@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /resume/
-title: Shaowei Ding's Resume
+permalink: /project/
+title: Class Projects 
 tagline: try
 tags: [about, Jekyll, theme, responsive]
 modified: 4-9-2014
@@ -11,6 +11,4 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
-<object data="/images/resume.pdf" type="application/pdf" width="300" height="500">
-  alt : <a href="/images/resume.pdf">resume.pdf</a>
-</object>
+:))))

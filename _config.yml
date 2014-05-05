@@ -41,6 +41,8 @@ links:
     url: /posts/
   - title: Courses 
     url: /courses/
+  - title: Class Projects
+    url: /project/
   - title: Research and Teaching Experiences
     url: /intro/
     external: true
